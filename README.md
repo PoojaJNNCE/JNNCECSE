@@ -1,4 +1,5 @@
 # JNNCECSE
-This is JNNCECSE Repositary
+this is JNNCECSE Repositary
 <br>
 venue:shivamogga
+Hello JNN
